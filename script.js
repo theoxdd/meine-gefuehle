@@ -7,7 +7,7 @@ const options = {
     value: 0,
     emoji: '💔',
     title: 'Das tut mir weh',
-    text: 'Paartanz bedeutet für mich Nähe und halt etwas was Paare machen. Der Gedanke, dass du diesen Moment gerade mit ihm teilst, löst bei mir echten Schmerz aus, nicht Eifersucht, sondern das Gefühl etwas wichtiges zu verlieren. Ich wollte, dass du das weißt, denn dieses Gefühl wird nicht weggehen. Wenn du mit Carlo tanzt, fühle ich mich ausgeschlossen und verletzt. Es ist fast unmöglich für mich, das zu akzeptieren.',
+    text: 'Paartanz bedeutet für mich Nähe und halt etwas was Paare machen. Der Gedanke, dass du diesen Moment gerade mit ihm teilst, löst bei mir echten Schmerz aus, nicht Eifersucht, sondern das Gefühl etwas wichtiges zu verlieren. Ich wollte, dass du das weißt, denn dieses Gefühl wird nicht weggehen. Wenn du mit Carlo tanzt, fühle ich mich ausgeschlossen und verletzt, diese körperliche Nähe mit ihm ist einfach eine Grenze von mir. Es ist fast unmöglich für mich, das zu akzeptieren.',
     fill: 'linear-gradient(90deg, #f7c8c8, #e86060)',
     thumbColor: '#e86060',
     thumbEmoji: '😢',
